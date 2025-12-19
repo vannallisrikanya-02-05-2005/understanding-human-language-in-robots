@@ -1,0 +1,7 @@
+{
+  "name": "Copy of RoboTalk: Linguistic Intelligence Lab",
+  "description": "An interactive exploration into how modern robotics and AI models understand, parse, and ground human language into actionable logic.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
